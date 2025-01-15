@@ -27,6 +27,10 @@ The objective of this project is to create a simple calculator that:
 
 4. **Results**:
    - Displays the result of the arithmetic operation in green when the operation is successful.
+  
+
+ ## Relevant Links
+- Live Demo: [Simple React Calculator](https://imsunokdir.github.io/simple-calc/)
 
 
 
